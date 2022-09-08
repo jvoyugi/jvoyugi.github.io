@@ -23,7 +23,7 @@ img {
   width: 90%;
 }
 .center {
-  margin: auto;
+  text-align: center;
 }
 .relative {
   position: relative;
