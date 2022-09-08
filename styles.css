@@ -1,0 +1,32 @@
+body {
+  font-family: "Nunito", sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 30px;
+}
+img {
+  width: 80%;
+  height: auto;
+  position:absolute;
+}
+.auto-width {
+  width: auto;
+}
+.width-60 {
+  width: 60%;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.right {
+  position: absolute;
+  right: 0;
+}
