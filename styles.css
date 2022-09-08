@@ -1,6 +1,8 @@
 body {
   font-family: "Nunito", sans-serif;
   font-size: 18px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 h1 {
@@ -17,17 +19,8 @@ img {
 .auto-width {
   width: auto;
 }
-.width-60 {
-  width: 60%;
-}
-.width-40 {
-  width: 40%;
-}
-.width-80 {
-  width: 80%;
-}
-.width-20 {
-  width: 20%;
+.width-90 {
+  width: 90%;
 }
 .center {
   margin: auto;
