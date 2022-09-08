@@ -41,5 +41,8 @@ img {
 }
 
 .title {
-  text-align: center;
+  font-weight:bolder;
+}
+.link{
+  text-decoration: none;
 }
