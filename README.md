@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A portfolio website build using HTML and CSS
+A portfolio website built using HTML and CSS
 
 ## Author
 Javan Oyugi
